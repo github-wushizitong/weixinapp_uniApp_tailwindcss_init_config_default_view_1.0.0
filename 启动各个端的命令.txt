@@ -1,0 +1,24 @@
+启动各个端的命令
+//启动项目（微信小程序）
+npm run dev:mp-weixin
+ 
+//启动项目（h5）
+npm run dev:h5
+ 
+//启动项目（app平台）
+npm run build:app-plus （也就是App平台运行调试不支持cli方式，需在HBuilderX中运行调试）
+ 
+//启动项目（支付宝小程序）	
+npm run dev:mp-alipay
+ 
+//启动项目（百度小程序）
+npm run dev:mp-baidu	
+ 
+//启动项目（字节跳动小程序）
+npm run dev:mp-toutiao	
+ 
+//启动项目（qq 小程序）
+npm run dev:mp-qq	
+ 
+//启动项目（快应用）
+npm run dev:quickapp-webview	
